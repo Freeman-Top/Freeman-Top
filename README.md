@@ -6,9 +6,25 @@
 
 
 
-[Favour Oyeniran]("https://www.linkedin.com/in/favour-oyeniran-a1404b225/) I recently completed comprehensive data analysis and science training at DataSallyNG, gaining hands-on experience in data cleaning and preprocessing with Python (Pandas, NumPy, and other Python libraries), SQL for database querying and management, and creating interactive dashboards in Power BI and Tableau. My training also covered statistical analysis, data visualization techniques, and building machine learning models with scikit-learn.
+[Favour Oyeniran]("https://www.linkedin.com/in/favour-oyeniran-a1404b225/)
 
-I'm enthusiastic about applying my skills to real-world data challenges. I'm a quick learner with strong analytical thinking and problem-solving abilities. I'm currently seeking opportunities to grow further in data-focused roles.
+Junior Data Analyst | Transforming Raw Data into Actionable Insights
+Python (Pandas, NumPy) • SQL • Power BI • Tableau • Machine Learning
+
+Results-driven data professional with expertise in the full data lifecycle—from collection and cleaning to analysis and visualization. Leverage strong technical skills in Python data manipulation, SQL database management, and interactive dashboard development to uncover meaningful business insights.
+
+Key Strengths:
+
+Data Wrangling: Efficiently clean and preprocess complex datasets using Python libraries
+
+Business Intelligence: Create impactful visualizations and dashboards in Power BI/Tableau
+
+Analytical Problem-Solving: Apply statistical methods and ML techniques (scikit-learn) to derive data-driven solutions
+
+Collaborative Mindset: Thrive in team environments, translating technical findings into actionable business recommendations
+
+Eager to apply my technical training and analytical mindset to solve real-world challenges in an entry-level data analyst role. Committed to continuous learning and professional growth in the data field.
+
 
 
 
